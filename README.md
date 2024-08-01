@@ -1,4 +1,4 @@
-## Hi there 👋
+### 🐬 Deep-Dives & AI-Articles
 
 <!--
 **dcarpintero/dcarpintero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📄 <a href="https://huggingface.co/blog/dcarpintero/taxonomy-completion" target="_blank">*Taxonomy Completion with Embedding Quantization and an LLM-based Pipeline: A Case Study in Computational Linguistics*</a>
+
+📄 <a href="https://huggingface.co/blog/dcarpintero/building-a-neural-network-for-image-classification" target="_blank">*Building a Neural Network Classifier from the Ground Up: A Step-by-Step Guide*</a>
+
+### 🔭 In-Progress
+
+<pre>
+🎶 deep-symphony:      python from-scratch implementation of a decoder model for music generation
+🧙‍♂️ generative-ai-101:  notebooks and guidelines to build w/ LLMs and Diffusion models
+🧭 galapagos:          AI-safety framework
+🌱 *********:          stealth-project   
+</pre>
+
+### 🧮 Tech-Stack
+
+<pre>
+☑️ Python, PyTorch            ☑️ GPT, Cohere, Claude, Mistral, Llama   ☑️ LangSmith, Weights & Biases 
+☑️ HuggingFace Transformers   ☑️ RAG, Transfer Learning, Fine-Tuning   ☑️ Pandas, Scikit
+☑️ LangChain, LlamaIndex      ☑️ Pinecone, Weaviate                    ☑️ Quantization
+</pre>
