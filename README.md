@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 <pre>
 ☑️ Python, PyTorch            ☑️ GPT, Cohere, Claude, Mistral, Llama   ☑️ LangSmith, Weights & Biases 
-☑️ HuggingFace Transformers   ☑️ RAG, Transfer Learning, Fine-Tuning   ☑️ Pandas, Scikit
-☑️ LangChain, LlamaIndex      ☑️ Pinecone, Weaviate                    ☑️ Quantization
+☑️ HuggingFace Transformers   ☑️ RAG, Transfer-, In-Context Learning   ☑️ Pandas, Scikit
+☑️ LangChain, LlamaIndex      ☑️ Pinecone, Weaviate                    ☑️ Fine-Tuning, Quantization
 </pre>
