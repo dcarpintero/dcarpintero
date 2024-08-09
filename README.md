@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📄 <a href="https://huggingface.co/blog/dcarpintero/taxonomy-completion" target="_blank">*Taxonomy Completion with Embedding Quantization and an LLM-based Pipeline: A Case Study in Computational Linguistics*</a>
+📄 <a href="https://huggingface.co/blog/dcarpintero/taxonomy-completion" target="_blank">*Taxonomy Completion with Embedding Quantization and an LLM-based Pipeline: A Case Study in Computational Linguistics*</a> - *[[github-repo](https://github.com/dcarpintero/taxonomy-completion)]*
 
-📄 <a href="https://huggingface.co/blog/dcarpintero/building-a-neural-network-for-image-classification" target="_blank">*Building a Neural Network Classifier from the Ground Up: A Step-by-Step Guide*</a>
+📄 <a href="https://huggingface.co/blog/dcarpintero/building-a-neural-network-for-image-classification" target="_blank">*Building a Neural Network Classifier from the Ground Up: A Step-by-Step Guide*</a> - *[[github-repo](https://github.com/dcarpintero/nn-image-classifier)]*
 
 ### 🔭 In-Progress
 
