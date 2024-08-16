@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 
 📄 <a href="https://huggingface.co/blog/dcarpintero/building-a-neural-network-for-image-classification" target="_blank">*Building a Neural Network Classifier from the Ground Up: A Step-by-Step Guide*</a> - *[[repo](https://github.com/dcarpintero/nn-image-classifier)]*
 
+### 🧙‍♂️ Recent Releases
+
+📄 *[generative-ai-101 (v0.6.0)](https://github.com/dcarpintero/generative-ai-101): diving into self-attention, RAG, knowledge-graphs, fine-tuning, model optimization, and many more*
+
 ### 🔭 In-Progress
 
 <pre>
 🎶 deep-symphony:      python from-scratch implementation of a decoder model for music generation
-🧙‍♂️ generative-ai-101:  diving into self-attention, RAG, knowledge-graphs, fine-tuning, model optimization, and many more
 🧭 galapagos:          AI-safety framework
 🌱 *********:          stealth-project   
 </pre>
