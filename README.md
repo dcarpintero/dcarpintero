@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 🧙‍♂️ Recent Releases
 
-📄 *[generative-ai-101 (v0.6.0)](https://github.com/dcarpintero/generative-ai-101): diving into self-attention, RAG, knowledge-graphs, fine-tuning, model optimization, and many more*
+📄 *[generative-ai-101 (v0.6.0)](https://github.com/dcarpintero/generative-ai-101): annotated NBs to dive into self-attention, RAG, knowledge-graphs, fine-tuning, model optimization, and many more*
 
 ### 🔭 In-Progress
 
