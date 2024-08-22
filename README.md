@@ -6,7 +6,7 @@
 
 ### 🧙‍♂️ Recent Releases
 
-📄 *[generative-ai-101 (v0.6.0)](https://github.com/dcarpintero/generative-ai-101): Annotated NBs to dive into Self-Attention, RAG, Knowledge-Graphs, ICL, Fine-Tuning & Model Optimization*
+📄 *[generative-ai-101 (v0.7.0)](https://github.com/dcarpintero/generative-ai-101): Annotated NBs to dive into Self-Attention, RAG, Knowledge-Graphs, ICL, Fine-Tuning & Model Optimization*
 
 ### 🔭 In-Progress
 
