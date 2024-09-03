@@ -11,9 +11,8 @@
 ### 🔭 In-Progress
 
 <pre>
-🎶 deep-symphony:      python from-scratch implementation of a decoder model for music generation
+🌱 deep-gondola:       applying gen-ai to enhance intellectual property services, and derive patent insights
 🧭 galapagos:          AI-safety framework
-🌱 *********:          stealth-project   
 </pre>
 
 ### 🧮 Tech-Stack
