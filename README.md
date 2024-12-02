@@ -11,7 +11,6 @@
 ### 🔭 In-Progress
 
 <pre>
-🌱 deep-gondola:       applying gen-ai to enhance intellectual property services, and derive patent insights
 🧭 galapagos:          AI-safety framework
 </pre>
 
@@ -19,6 +18,6 @@
 
 <pre>
 ☑️ Python, PyTorch            ☑️ GPT, Cohere, Claude, Mistral, Llama   ☑️ LangSmith, Weights & Biases 
-☑️ HuggingFace Transformers   ☑️ RAG, Transfer-, In-Context Learning   ☑️ Pandas, Scikit
-☑️ LangChain, LlamaIndex      ☑️ Neo4j, Pinecone, Weaviate             ☑️ Fine-Tuning, Quantization
+☑️ HuggingFace Transformers   ☑️ RAG, Transfer-, In-Context Learning   ☑️ Fine-Tuning, Quantization
+☑️ LangChain, LlamaIndex      ☑️ Neo4j, Pinecone, Weaviate             ☑️ Smart Contracts, Solidity
 </pre>
