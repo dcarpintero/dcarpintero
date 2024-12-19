@@ -4,6 +4,8 @@
 
 📄 <a href="https://huggingface.co/blog/dcarpintero/building-a-neural-network-for-image-classification" target="_blank">*Building a Neural Network Classifier from the Ground Up: A Step-by-Step Guide*</a> - *[[repo](https://github.com/dcarpintero/nn-image-classifier)]*
 
+📄 <a href="https://huggingface.co/blog/dcarpintero/minerva" target="_blank">*MINERVA: A Multi-Agent LLM System for Digital Scam Protection*</a> - *[[repo](https://github.com/dcarpintero/nn-image-classifier)]*
+
 ### 🧙‍♂️ Recent Releases
 
 📄 *[generative-ai-101 (v0.7.0)](https://github.com/dcarpintero/generative-ai-101): Annotated NBs to dive into Self-Attention, RAG, Knowledge-Graphs, ICL, Fine-Tuning & Model Optimization*
@@ -17,7 +19,7 @@
 ### 🧮 Tech-Stack
 
 <pre>
-☑️ Python, PyTorch            ☑️ GPT, Cohere, Claude, Mistral, Llama   ☑️ LangSmith, Weights & Biases 
+☑️ Python, PyTorch            ☑️ GPT, Cohere, Claude, Mistral, Llama   ☑️ LangSmith, W&B, AutoGen
 ☑️ HuggingFace Transformers   ☑️ RAG, Transfer-, In-Context Learning   ☑️ Fine-Tuning, Quantization
 ☑️ LangChain, LlamaIndex      ☑️ Neo4j, Pinecone, Weaviate             ☑️ Smart Contracts, Solidity
 </pre>
