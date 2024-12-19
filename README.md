@@ -1,6 +1,6 @@
 ### 🐬 Deep-Dives & AI-Articles
 
-📄 <a href="https://huggingface.co/blog/dcarpintero/minerva" target="_blank">*MINERVA: A Multi-Agent LLM System for Digital Scam Protection*</a> - *[[repo](https://github.com/dcarpintero/nn-image-classifier)]*
+📄 <a href="https://huggingface.co/blog/dcarpintero/minerva" target="_blank">*MINERVA: A Multi-Agent LLM System for Digital Scam Protection*</a> - *[[repo](https://github.com/dcarpintero/minerva)]*
 
 📄 <a href="https://huggingface.co/blog/dcarpintero/taxonomy-completion" target="_blank">*Taxonomy Completion with Embedding Quantization and an LLM-based Pipeline: A Case Study in Computational Linguistics*</a> - *[[repo](https://github.com/dcarpintero/taxonomy-completion)]*
 
