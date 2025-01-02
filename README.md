@@ -4,6 +4,8 @@
 
 📄 <a href="https://huggingface.co/blog/dcarpintero/taxonomy-completion" target="_blank">*Taxonomy Completion with Embedding Quantization and an LLM-based Pipeline: A Case Study in Computational Linguistics*</a> - *[[repo](https://github.com/dcarpintero/taxonomy-completion)]*
 
+📄 <a href="https://mirror.xyz/arkimedesnetwork.eth/gpY77R1PCpq7kaIXZVHMzNgD85dM5S2SRIt3-vQszuY" target="_blank">*Arkimedes Architecture: At the Intersection of AI and Web3 for Talent Acquisition*</a> - *[[homepage](https://arkimedes.network/)]*
+
 📄 <a href="https://huggingface.co/blog/dcarpintero/building-a-neural-network-for-image-classification" target="_blank">*Building a Neural Network Classifier from the Ground Up: A Step-by-Step Guide*</a> - *[[repo](https://github.com/dcarpintero/nn-image-classifier)]*
 
 ### 🧙‍♂️ Recent Releases
