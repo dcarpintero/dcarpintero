@@ -15,7 +15,7 @@
 ### 🔭 In-Progress
 
 <pre>
-🧭 galapagos: AI-safety framework with LLM Agents
+🧭 galapagos: LLM-Agents for Data Analysis in Natural Language
 </pre>
 
 ### 🧮 Tech-Stack
