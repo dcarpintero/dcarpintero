@@ -1,3 +1,7 @@
+### 🌱 AI Models
+
+📄 <a href="https://huggingface.co/blog/dcarpintero/pangolin-fine-tuning-modern-bert" target="_blank">*PangolinGuard: Fine-Tuned ModernBERT Model for AI Guardrails*</a> - *[[repo](https://github.com/dcarpintero/pangolin-guard)]*
+
 ### 🐬 Deep-Dives & AI-Articles
 
 📄 <a href="https://huggingface.co/blog/dcarpintero/minerva" target="_blank">*MINERVA: A Multi-Agent LLM System for Digital Scam Protection*</a> - *[[repo](https://github.com/dcarpintero/minerva)]*
