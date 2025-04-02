@@ -22,12 +22,6 @@
 
 📄 *[ai-engineering](https://github.com/dcarpintero/ai-engineering): (v0.7.0) Annotated NBs to dive into Self-Attention, RAG, Knowledge-Graphs, ICL, Fine-Tuning & Model Optimization*
 
-### 🔭 In-Progress
-
-<pre>
-🧭 galapagos: LLM-Agents for Data Analysis in Natural Language
-</pre>
-
 ### 🧮 Tech-Stack
 
 <pre>
