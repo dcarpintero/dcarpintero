@@ -1,8 +1,8 @@
-### 🌱 AI Models
+### 🤖 AI Models
 
 📄 <a href="https://huggingface.co/blog/dcarpintero/pangolin-fine-tuning-modern-bert" target="_blank">*PangolinGuard: Fine-Tuned ModernBERT Model for AI Guardrails*</a> - *[[repo](https://github.com/dcarpintero/pangolin-guard)]*
 
-### 🐬 Deep-Dives & AI-Articles
+### 🐬 AI Projects / Deep-Dives
 
 📄 <a href="https://huggingface.co/blog/dcarpintero/minerva" target="_blank">*MINERVA: A Multi-Agent LLM System for Digital Scam Protection*</a> - *[[repo](https://github.com/dcarpintero/minerva)]*
 
@@ -12,9 +12,15 @@
 
 📄 <a href="https://huggingface.co/blog/dcarpintero/building-a-neural-network-for-image-classification" target="_blank">*Building a Neural Network Classifier from the Ground Up: A Step-by-Step Guide*</a> - *[[repo](https://github.com/dcarpintero/nn-image-classifier)]*
 
+### 🧑‍🍳 AI Cookbook
+
+📄 <a href="https://huggingface.co/learn/cookbook/rag_with_knowledge_graphs_neo4j" target="_blank">*Enhancing RAG Reasoning with knowledge Graphs*</a> - *[[notebook](https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/rag_with_knowledge_graphs_neo4j.ipynb)]*
+
+📄 <a href="https://cookbook.openai.com/examples/named_entity_recognition_to_enrich_text">*In-Context Learning and Function Calling with OpenAI*</a> - *[[notebook](https://github.com/openai/openai-cookbook/blob/main/examples/Named_Entity_Recognition_to_enrich_text.ipynb)]*
+
 ### 🧙‍♂️ Recent Releases
 
-📄 *[generative-ai-101 (v0.7.0)](https://github.com/dcarpintero/generative-ai-101): Annotated NBs to dive into Self-Attention, RAG, Knowledge-Graphs, ICL, Fine-Tuning & Model Optimization*
+📄 *[ai-engineering](https://github.com/dcarpintero/ai-engineering): (v0.7.0) Annotated NBs to dive into Self-Attention, RAG, Knowledge-Graphs, ICL, Fine-Tuning & Model Optimization*
 
 ### 🔭 In-Progress
 
