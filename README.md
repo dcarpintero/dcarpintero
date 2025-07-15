@@ -14,6 +14,10 @@
 
 ### 🧙‍♂️ AI Guides
 
+📄 <a href="https://tech.diegocarpintero.com/blog/agentic-shift-design-patterns-for-building-ai-systems/" target="_blank">*The Agentic Shift - Design Patterns for Building AI Systems*</a>
+
+📄 <a href="https://tech.diegocarpintero.com/blog/model-context-protocol-in-practice/" target="_blank">*Model Context Protocol (MCP) in Practice*</a>
+
 📄 <a href="https://huggingface.co/learn/cookbook/rag_with_knowledge_graphs_neo4j" target="_blank">*Enhancing RAG Reasoning with knowledge Graphs*</a> - *[[notebook](https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/rag_with_knowledge_graphs_neo4j.ipynb)]*
 
 📄 <a href="https://cookbook.openai.com/examples/named_entity_recognition_to_enrich_text">*In-Context Learning and Function Calling with OpenAI*</a> - *[[notebook](https://github.com/openai/openai-cookbook/blob/main/examples/Named_Entity_Recognition_to_enrich_text.ipynb)]*
