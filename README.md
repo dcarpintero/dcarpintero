@@ -14,7 +14,7 @@
 
 ### 🧙‍♂️ AI Guides
 
-📄 <a href="https://tech.diegocarpintero.com/blog/agentic-shift-design-patterns-for-building-ai-systems/" target="_blank">*The Agentic Shift - Design Patterns for Building AI Systems*</a>
+📄 <a href="https://tech.diegocarpintero.com/blog/agentic-shift-design-patterns-for-building-ai-systems" target="_blank">*Design Patterns for Building Agentic Workflows*</a>
 
 📄 <a href="https://tech.diegocarpintero.com/blog/model-context-protocol-in-practice/" target="_blank">*Model Context Protocol (MCP) in Practice*</a>
 
