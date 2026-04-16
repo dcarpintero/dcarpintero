@@ -14,6 +14,8 @@
 
 ### 🧙‍♂️ AI Guides
 
+📄 <a href="https://tech.diegocarpintero.com/blog/the-zero-trust-gap-in-llms" target="_blank">*The Zero-Trust Gap in LLMs*</a>
+
 📄 <a href="https://tech.diegocarpintero.com/blog/agentic-shift-design-patterns-for-building-ai-systems" target="_blank">*Design Patterns for Building Agentic Workflows*</a>
 
 📄 <a href="https://tech.diegocarpintero.com/blog/model-context-protocol-in-practice/" target="_blank">*Model Context Protocol (MCP) in Practice*</a>
